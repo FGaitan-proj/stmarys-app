@@ -1,7 +1,7 @@
 # St.Mary-s-App
 
 
-This code was implemented in the summer of 2020, and my first attempt at developing an iOS application. 
+This code was implemented in the summer of 2020, and our first attempt at developing an iOS application. 
 
 The file uploaded is the directory developed on my computer through the swift app. 
 The code I, as well as my collaborator, Rachel Morrow, developed are the directories:
