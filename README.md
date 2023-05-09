@@ -1,7 +1,7 @@
 # St.Mary-s-App
 
-A tutorial video can be found here: [St.Mary's App Tutorial](StMaryTutorial.mov)
-https://fgaitan-proj.github.io/St.Mary-s-App/StMaryTutorial.mov
+A tutorial video can be found here: [St.Mary's App Tutorial](https://fgaitan-proj.github.io/St.Mary-s-App/StMaryTutorial.mov)
+
 
 This code was implemented in the summer of 2020, and our first attempt at developing an iOS application. 
 
