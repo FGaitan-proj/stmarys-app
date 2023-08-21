@@ -1,0 +1,6 @@
+framework module Pods_TypesofQuestions_TypesofQuestionsUITests {
+  umbrella header "Pods-TypesofQuestions-TypesofQuestionsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
